@@ -1,0 +1,34 @@
+OBJECT ORIENTED SOFTWARE DEVELOPMENT - PROJECT - SEMESTER-3
+
+PROJECT NAME : PAWNING MANAGEMENT SYSTEM SOFTWARE 
+
+PROJECT TEAM : PINESOFT
+
+	K. A. T. S. JAYATHILAKA	- 120260N - PROJECT MANAGER, DEVELOPER
+	J. H. MADUSHANKA	- 120374R - BUSINESS ANALYST
+	C. C. M. SIRIWARDHANA	- 120630B - DEVELOPER
+	M. G. T. N. SANJITHA	- 120586T - DEVELOPER
+	S. H. PALIHAWADANA	- 120443E - DATABASE DEVELOPER
+
+SOFTWARE DEPLOYMENT INSTRUCTIONS - HOW TO INSTALL?
+
+	1) First of all, "vcredist_x64" setup. If you have Visual Studio installed in your system, no need to install it.
+
+	2) After that, you have to install the "wampserver2.5" with the setup given here.
+
+	3) Then copy the "pawnboc" folder to the following directory.
+	
+		i) Go to the installed location of "wampserver".
+	
+		ii) Then follow this way.
+		         bin >> mysql >> mysql5.6.17 >> data
+
+		iii) Copy the "pawnboc" folder to that location.
+
+	4) Then start the wampserver. Start all services of wampserver.
+
+	5) Then double click the "PawningSystem.jar" file in the following directory.
+		PawningSystem >> dist >> PawningSystem.jar
+		
+	6) Enjoy the Software !
+	
